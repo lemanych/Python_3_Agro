@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding = "UTF-8" standalone = "no"?>
+<agro_company>
+    <company name="KovivServe">
+        <propertyType>Gov</propertyType>
+        <employeesNumber>82</employeesNumber>
+        <productType>Vegetables</productType>
+        <income>51000$</income>
+    </company>
+    <company name="Compact">
+        <propertyType>Privat</propertyType>
+        <employeesNumber>48</employeesNumber>
+        <productType>Corn</productType>
+        <income>43000$</income>
+    </company>
+    <company name="Koviv">
+        <propertyType></propertyType>
+        <employeesNumber>154</employeesNumber>
+        <productType>Vegetables</productType>
+        <income>86000$</income>
+    </company>
+    <company name="Serve">
+        <propertyType>Privat</propertyType>
+        <employeesNumber>483</employeesNumber>
+        <productType>Corn</productType>
+        <income>188000$</income>
+    </company>
+    <company name="AgroLviv">
+        <propertyType>Gov</propertyType>
+        <employeesNumber>82</employeesNumber>
+        <productType>Vegetables</productType>
+        <income>53000$</income>
+    </company>
+    <company name="CompAgro">
+        <propertyType>Privat</propertyType>
+        <employeesNumber>34</employeesNumber>
+        <productType>Corn</productType>
+        <income>36000$</income>
+    </company>
+    <company name="Kove">
+        <propertyType>Roman</propertyType>
+        <employeesNumber>41</employeesNumber>
+        <productType>Vegetables</productType>
+        <income>66000$</income>
+    </company>
+    <company name="Pact">
+        <propertyType>Privat</propertyType>
+        <employeesNumber>12</employeesNumber>
+        <productType>Corn</productType>
+        <income>25000$</income>
+    </company>
+    <company name="Serw">
+        <propertyType>Roman</propertyType>
+        <employeesNumber>111</employeesNumber>
+        <productType>Vegetables</productType>
+        <income>51000$</income>
+    </company>
+    <company name="Tyuk">
+        <propertyType>Privat</propertyType>
+        <employeesNumber>93</employeesNumber>
+        <productType>Corn</productType>
+        <income>43000$</income>
+    </company>
+</agro_company>
